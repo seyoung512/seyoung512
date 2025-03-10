@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 백엔드 개발자 조세영입니다 👋
 
 <!--
 **seyoung512/seyoung512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
